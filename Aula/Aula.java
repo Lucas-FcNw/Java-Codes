@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Aula {
     public static void main(String[] args){
-        System.out.println("Ola mundo");
+        System.out.println("\nOla esse é um gerador de chave de acesso");
 
         Scanner scanner = new Scanner(System.in);
 
