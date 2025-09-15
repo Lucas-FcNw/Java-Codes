@@ -1,6 +1,5 @@
 
-```
-mermaid
+```mermaid
 classDiagram
     class User {
         -String id
